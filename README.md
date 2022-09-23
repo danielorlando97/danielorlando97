@@ -5,7 +5,7 @@
 
 ### 🧐 More About Me:
 - 💻 &nbsp; Computer Scientist graduated from the Faculty of Mathematics and Computer Science at University of Havana, Cuba.
-- 📚 &nbsp; I’m interested in blockchain technologies, IA and ML problems and algorithms, and to learn new languages like Rust or Scala  
+- 📚 &nbsp; I’m interested in blockchain technologies, IA and ML problems and algorithms, DevOps practices, and to learn new languages like Rust or Scala  
 - 🤝 &nbsp; I’m looking to collaborate with `@ic-matcom`, `@gia-uh` and `@forta`.
 - 🧑🏿‍💻 &nbsp; I’m currently working with `@autogoal`, writing the `fabric-sdk-python` and studing a lot to build my greate future.
 
