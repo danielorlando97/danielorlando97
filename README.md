@@ -1,15 +1,24 @@
-# Q Bola Asere 🇨🇺🧑🏿‍💻
+# Q Bola Asere 🇨🇺 I'm Daniel Orlando 🧑🏿‍💻
 
 <!-- ![Twitter Follow](https://img.shields.io/twitter/follow/alepiad?label=Follow%20on%20Twitter&color=red&style=flat) ![GitHub followers](https://img.shields.io/github/followers/apiad?label=Follow%20on%20Github&style=flat) ![Discord](https://img.shields.io/discord/768779284050477086?style=flat&label=Chat%20on%20Discord) -->
 
 
-🧐 More About Me:
+### 🧐 More About Me:
 - 💻 &nbsp; Computer Scientist graduated from the Faculty of Mathematics and Computer Science at University of Havana, Cuba.
 - 📚 &nbsp; I’m interested in blockchain technologies, IA and ML problems and algorithms, and to learn new languages like Rust or Scala  
 - 🤝 &nbsp; I’m looking to collaborate with `@ic-matcom`, `@gia-uh` and `@forta`.
 - 🧑🏿‍💻 &nbsp; I’m currently working with `@autogoal`, writing the `fabric-sdk-python` and studing a lot to build my greate future.
 
 
+### 🏦 My Orgs 
+      I like to organize my work in orgs by subject or origin, always that works have more that one repo.
+    
+  - `@matcom-school`: where you can find all the projects I developed at the university
+  - `@cuban-digital-language`: where you can find all my work in the intership with `@postdata.club`. Those works are about scrapers and nlp   
+
+
+
+<!--
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -17,8 +26,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> <
 </p>
+-->
+### 📈 My Statistics 
 
 |            |  |
 :-------------------------:|:-------------------------:
