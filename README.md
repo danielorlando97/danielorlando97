@@ -34,7 +34,7 @@
 |            |  |
 :-------------------------:|:-------------------------:
 ![Me GitHub stats](https://github-readme-stats.vercel.app/api?username=danielorlando97&count_private=true&show_icons=true&theme=dark&title_color=00BB2D) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielorlando97&layout=compact&langs_count=5&hide=html,css,makefile&count_private=true&show_icons=true&theme=dark&title_color=00BB2D)](https://github.com/anuraghazra/github-readme-stats)
-![Me GitHub stats](https://wakatime.com/share/@danielorlando97/7ee8596e-58cc-4a0d-8841-388180ee9012.svg) | ![Me GitHub stats](https://wakatime.com/share/@danielorlando97/6b118480-6505-45da-ac48-078c2ffba2a1.svg) 
+![Me GitHub stats](https://wakatime.com/share/@danielorlando97/7ee8596e-58cc-4a0d-8841-388180ee9012.svg) | ![Me GitHub stats](https://wakatime.com/share/@danielorlando97/2a7c34ad-b7b5-4c21-bb2f-662fefe1a266.svg) 
 
 
 
