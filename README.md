@@ -18,17 +18,59 @@
 
 
 
-<!--
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> <
-</p>
--->
+## 🗃 Portfolio
+<details>
+  <summary><b>🗃&nbsp;&nbsp;My&nbsp;Projects&nbsp;List</b></summary>
+  <br/>
+      
+- 🐳 [Docker Files Collection](https://github.com/danielorlando97/docker-files) - `Keywords`: docker, dockerfile, docker-compose, dbs, examples 
+- ⛓ [Solidity and HardHat Practice Code](https://github.com/danielorlando97/solidity-practice) - `Keywords`: solidity, ethereum, hardhat, ether.js, blockchain
+- `H` [Haskell Agent Implementation](https://github.com/matcom-school/haskell-agent) - `Keywords`: haskell, agents, monad  
+- `C` [Shell Implementation](https://github.com/matcom-school/my-shell-pm-2-3ro) - `Keywords`: c, shell, system api
+- `C#` [Computer Graphis Project](https://github.com/matcom-school/graphic-implementation-) - `Keywords`: c#, computer graphis, mesh
+
+---- 
+- `Go` [Golang Competitive Programming](https://github.com/danielorlando97/golang-solution-problem)  - `Keywords`: go, golang, competitive programming
+- `Go` [Chaincode of File Management System](https://github.com/matcom-school/test-network-optativo-nanobash)  - `Keywords`: go, golang, hyperledger fabric, go sdk, chaincode, smart contract, blockchain 
+- `Go` [Dapp of File Management System](https://github.com/matcom-school/api.dapp)  - `Keywords`: go, golang, hyperledger fabric, go sdk, iris-go, blockchain  
+
+      
+---
+   
+- 🐍🔍🤖 [Python-Search-Space](https://github.com/danielorlando97/search-space) - `Keywords`: python, metaprogramming, search space, sampler, AutoGoal, open source constribution 
+- 🐍⛓️ [Fabric SDK Python](https://github.com/ic-matcom/fabric-sdk-python) - `Keywords`: python, sdk, hyperledger fabric, open source constribution 
+- 🐍🔍 [Models of Information Retrieval](https://github.com/cuban-digital-language/Models-for-Information-Retrieval) - `Keywords`: python, information retrieval, theasaurus
+- 🐍🤖🇪🇸 [NN to Text Generation](https://github.com/cuban-digital-language/nlp-rnn-text-generator) - `Keywords`: python, tensorflow, rnn, spacy, nlp
+- 🐍🤖🇪🇸 [Markov Chain to Text Generation](https://github.com/cuban-digital-language/nlp-probabilistic-text-generator) - `Keywords`: python, spacy, nlp, Markov chain
+- 🐍🤖🇪🇸 [NN AutoEncoder to Content Detection](https://github.com/cuban-digital-language/corpus-cluster-by-autoencode) - `Keywords`: python, tensorflow, nlp, spacy, autoencoder 
+- 🐍🤖🇪🇸 [UnSupervised ML Model to Content Detection](https://github.com/cuban-digital-language/content-detection-and-corpus-clustering) - `Keywords`: python, sklearn, nlp, spacy, clusters, dimension reduction    
+- 🐍🇪🇸 [Social Media Data Mining](https://github.com/cuban-digital-language/data-mining) - `Keywords`: python, scrapes, nlp, spacy
+- 🐍🇪🇸 [Custom Tokenizer for Spanish Social Media Dataset](https://github.com/cuban-digital-language/tokenizer-digital-language) - `Keywords`: python, nlp, spacy, emojis 
+- 🐍 [Grammar Analyze](https://github.com/matcom-school/compile-cp-3ro-2) - `Keywords`: python, context-free grammar, parser, lexer 
+- 🐍 [Cool Compiler](https://github.com/matcom-school/cool-compiler-2021) - `Keywords`: python, context-free grammar, parser, lexer, mips, semantic check, ast, code generation, unit testing, visit pattern 
+- 🐍 [TCP Protocol Implementation](https://github.com/matcom-school/network-proyect-3ro) - `Keywords`: python, socket, zmq, tcp, udp 
+- 🐍 [Distributed Scraper](https://github.com/matcom-school/distributed-scrapper-chord-4to) - `Keywords`: python, requests, scraper, chord, socket, zmq  
+- 🐍🤖 [IA Algorithms Implementations](https://github.com/matcom-school/IA-algorithms) - `Keywords`: python, knn, csp, min-max, alpha-beta, a-start
+     
+---
+      
+- `JS` [Files System](https://github.com/danielorlando97/flashplus) - `Keywords`: react-js, javascript, typescript, tailwindcss, html, react-hooks       
+- `TS` ERP Palmares Restaurants, Warehouse Management and Accounting Module (`private repo`) - `Keywords`: typescript, nest, typeorm, sql
+- `TS` Unified Tourism GDS, Nautical Marinas Management Module (`private repo`) - `Keywords`: typescript, nest, typeorm, sql
+- `TS` Online Store, Microservices Version (`private repo`) - `Keywords`: typescript, nest, typeorm, sql, kafka, grpc
+- `JS` EON (National Bus Company) Transportation GDS, Waiting List Management Module (`private repo`) - `Keywords`: javascript, express-js, sequelize, sql, mongo-db
+- `JS` Tourism GDS, Experiences and Circuits Management System (`private repo`) - `Keywords`: javascript, express-js, sequelize, sql, mongo-db, gateway integrations
+- `JS` Api for Consuming a Russian Flight Api (`private repo`) - `Keywords`: javascript, express-js, sequelize, sql, mongo-db
+- `JS` Integration with the Come2pay Payment Gateway (`private repo`) - `Keywords`: javascript, express-js, sequelize, sql, mongo-db
+
+
+
+
+
+
+</details> 
+
+
 ### 📈 My Statistics From Sep 2022
 
 |            |  |
@@ -38,60 +80,7 @@
 
 
 
-   <!--
-
-
-📊 &nbsp;**This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=@danielorlando97&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
-
-<details>
-
-
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-  <br/>
-
-
-
-I am a Full Stack Developer with 8+ years of experience in developing enterprise applications and open-source software.
-
-### My Opensource Story
-All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
-- [Nothing Private](https://github.com/gautamkrishnar/nothing-private) - This project is a proof of concept that any website can identify and track you, even if you are using private browsing or incognito mode in your web browser. It has around 1000K+ users and 1.8K+ stars.  It got discussed in many privacy forums and conferences worldwide. Various privacy-focused browser vendors were able to implement fixes to prevent fingerprinting due to this project. It also made lots of people aware of the bad effects of browser fingerprinting.
-- [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow) - A Github action to show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed. It is now used by over 5.6K+ users and running on thousands of GitHub actions runner every hour. It is also one of the top 20 [most used](https://github.com/marketplace?category=&query=sort%3Apopularity-desc&type=actions&verification=) GitHub actions internationally in GitHub Marketplace.
--  [SoCLI](https://github.com/gautamkrishnar/socli) scored 300+ stars within 24 hours of its release. It now has almost 2K+ users. It provides an easy way of accessing StackOverflow even if you are hooked into a terminal.
-- [Motrix WebExtension](https://github.com/gautamkrishnar/motrix-webextension) - A browser extension for the Motrix Download Manager. It now has more than 10K+ users worldwide.
-- [Refined GitHub Feeds](https://github.com/gautamkrishnar/refined-github-feeds) - A browser extension that adds filtering to the Github news feeds. 
-
-[⏩ &nbsp; and many more](https://github.com/gautamkrishnar?tab=repositories&q=&type=source&language=&sort=stargazers) 
-
-```
-  ____                  ____                      
- / __ \___  ___ ___    / __/__  __ _____________  
-/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
-\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
-   _/_/                  __  __   _               
-  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
- / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
-/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
-                 /___/                /___/       
-```
-
-Most of my leisure time is to contribute to open-source projects on GitHub. Acknowledging my extensive contribution to DuckDuckGo's open source projects, I was promoted as a maintainer and community leader with write access to all DuckDuckGo's repositories. I had contributed to Mozilla, Angular, Svelte, Node.JS, and several other open-source projects and organizations.
-
-I also maintain and contribute to a lot of community open-source projects and libraries. Some of the communities includes [Tinkerhub Foundation](https://tinkerhub.org/), [Kites Foundation](https://kitesfoundation.org/), [Mozilla Foundation](https://foundation.mozilla.org/en/), [Patternfly](https://www.patternfly.org/) etc. I strongly believe that the true value of open-source is not just the code, it's the community around it.
-
-You can learn more about me and my open source journey at my website: [https://www.gautamkrishnar.com/](https://www.gautamkrishnar.com/)
-
-Most of the open-source projects I create are the solutions to the problems I face in my life, there are even more that are yet unsolved. I am on a journey to find solutions for them, one at a time.
-
-### Awards and Achievements
-- Won the 1st edition of [GitHub India Open Source Grants](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/)
-- Worked as [DuckDuckGo Community Leader](https://help.duckduckgo.com/community/community-leaders/) and Maintainer
-- Won 1st place in Several Hackathons
-</details> 
-
+<!--
 
 
   <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> 
