@@ -19,9 +19,12 @@
 
 
 ## 🗃 Portfolio
+      30 projects, 3 in Go, 14 in Python and 8 in JavaScript or TypeScript 
 <details>
   <summary><b>🗃&nbsp;&nbsp;My&nbsp;Projects&nbsp;List</b></summary>
   <br/>
+    
+
       
 - 🐳 [Docker Files Collection](https://github.com/danielorlando97/docker-files) - `Keywords`: docker, dockerfile, docker-compose, dbs, examples 
 - ⛓ [Solidity and HardHat Practice Code](https://github.com/danielorlando97/solidity-practice) - `Keywords`: solidity, ethereum, hardhat, ether.js, blockchain
