@@ -16,10 +16,6 @@
 - 📚 &nbsp; I’m interested in blockchain technologies, AI and ML problems and algorithms, DevOps practices, and to learn new languages like Rust or Scala  
 - 🤝 &nbsp; I’m looking to collaborate with [@ic-matcom](https://github.com/ic-matcom), [@gia-uh](https://github.com/gia-uh) and [@forta](https://github.com/forta-network).
 - 🧑🏿‍💻 &nbsp; I’m currently working with [@autogoal](https://github.com/autogoal), writing the [fabric-sdk-python](https://github.com/ic-matcom/fabric-sdk-python) and studing a lot to build my greate future.
-
-
-
-<!-- ## 🦾 My Skills  -->
 - 😅 &nbsp; I'm proficient in:
 <p align="center">
     <a href="https://skillicons.dev">
