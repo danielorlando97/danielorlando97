@@ -19,23 +19,11 @@
 - 😅 &nbsp; I'm proficient in:
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,docker,git,linux,js,ts,express,nestjs,nodejs,react,tailwind,vscode" />
+        <img src="https://skillicons.dev/icons?i=python,docker,git,js,ts,express,nestjs,react,tailwind,vscode" />
     </a>
 </p>
 
-- 🫀 &nbsp; I've used it:
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=flask,fastapi,tensorflow,mongodb,mysql,postgres,redis,neovim,dotnet,haskell,go,cs,c,cpp,bash,heroku,githubactions,css,html,angular,nextjs,jest" />
-    </a>
-</p>
 
-- 🤓 &nbsp; I'm studying it:
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=azure,jenkins,rust,solidity" />
-    </a>
-</p>
 
 
 ---
@@ -102,6 +90,21 @@
 </details> 
 
 ---
+### Other Skills
+
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=go,solidity,css,html,cs,haskell,bash,c,cpp" />
+    </a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,jest,nextjs,flask,fastapi,githubactions,heroku,linux,azure,tensorflow,angular,jenkins,dotnet,neovim" />
+    </a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+    </a>
+</p>
+
+
 ### 📈 My Statistics From Sep 2022
 
 |            |  |
