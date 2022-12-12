@@ -1,16 +1,49 @@
-# Q Bola Asere 🇨🇺 I'm Daniel Orlando 🧑🏿‍💻
+<h2> Q Bola Asere 🇨🇺 I'm Daniel Orlando 🧑🏿‍ &#8203 &#8203
+	<a href="https://t.me/DanielOOP">
+		<img width="20px" src="https://simpleicons.now.sh/telegram/4c5861" />
+	</a>
+	<a href="https://twitter.com/https://twitter.com/dorlando1997">
+		<img width="20px" src="https://simpleicons.now.sh/twitter/4c5861" />
+	</a>
+<!-- 	<a href="https://stackoverflow.com/users/11915595/jorge-morgado">
+		<img width="20px" src="https://simpleicons.now.sh/stackoverflow/4c5861" />
+	</a> -->
+</h2>
 
 <!-- ![Twitter Follow](https://img.shields.io/twitter/follow/alepiad?label=Follow%20on%20Twitter&color=red&style=flat) ![GitHub followers](https://img.shields.io/github/followers/apiad?label=Follow%20on%20Github&style=flat) ![Discord](https://img.shields.io/discord/768779284050477086?style=flat&label=Chat%20on%20Discord) -->
 
-
-## 🧐 More About Me:
-- 💻 &nbsp; Computer Scientist graduated from the Faculty of Mathematics and Computer Science at University of Havana, Cuba.
-- 📚 &nbsp; I’m interested in blockchain technologies, IA and ML problems and algorithms, DevOps practices, and to learn new languages like Rust or Scala  
-- 🤝 &nbsp; I’m looking to collaborate with `@ic-matcom`, `@gia-uh` and `@forta`.
-- 🧑🏿‍💻 &nbsp; I’m currently working with `@autogoal`, writing the `fabric-sdk-python` and studing a lot to build my greate future.
+- 💻 &nbsp; Computer Scientist graduated from [@matcom](https://github.com/matcom)
+- 📚 &nbsp; I’m interested in blockchain technologies, AI and ML problems and algorithms, DevOps practices, and to learn new languages like Rust or Scala  
+- 🤝 &nbsp; I’m looking to collaborate with [@ic-matcom](https://github.com/ic-matcom), [@gia-uh](https://github.com/gia-uh) and [@forta](https://github.com/forta-network).
+- 🧑🏿‍💻 &nbsp; I’m currently working with [@autogoal](https://github.com/autogoal), writing the [fabric-sdk-python](https://github.com/ic-matcom/fabric-sdk-python) and studing a lot to build my greate future.
 
 
-## 🏦 My Orgs 
+
+<!-- ## 🦾 My Skills  -->
+- 😅 &nbsp; I'm proficient in:
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,docker,git,linux,js,ts,express,nestjs,nodejs,react,tailwind,vscode" />
+    </a>
+</p>
+
+- 🫀 &nbsp; I've used it:
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=flask,fastapi,tensorflow,mongodb,mysql,postgres,redis,neovim,dotnet,haskell,go,cs,c,cpp,bash,heroku,githubactions,css,html,angular,nextjs,jest" />
+    </a>
+</p>
+
+- 🤓 &nbsp; I'm studying it:
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=azure,jenkins,rust,solidity" />
+    </a>
+</p>
+
+
+---
+### 🏦 My Orgs 
       I like to organize my work in orgs by subject or origin, always that works have more that one repo.
     
   - `@matcom-school`: where you can find all the projects I developed at the university
@@ -18,10 +51,9 @@
 
 
 
-## 🗃 Portfolio
-      30 projects, 3 in Go, 14 in Python and 8 in JavaScript or TypeScript 
+### 🗃 Portfolio
 <details>
-  <summary><b>🗃&nbsp;&nbsp;My&nbsp;Projects&nbsp;List</b></summary>
+  <summary><b>✅&nbsp;&nbsp;My&nbsp;Projects&nbsp;List</b></summary>
   <br/>
     
 
@@ -73,8 +105,8 @@
 
 </details> 
 
-
-## 📈 My Statistics From Sep 2022
+---
+### 📈 My Statistics From Sep 2022
 
 |            |  |
 :-------------------------:|:-------------------------:
