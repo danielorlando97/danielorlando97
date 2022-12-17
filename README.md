@@ -27,30 +27,50 @@
 
 
 ---
-<!--  
+### 🧑🏿‍💻 Projects I work on
 
-#### 📝 Internship projects at [@posdata.club](https://github.com/postdataclub)
-	@cuban-digital-language is my org where you can find all my work in the intership with @postdata.club. Those works are about scrapers and nlp
-	
-- [comment-retrieval](https://github.com/cuban-digital-language/Models-for-Information-Retrieval)
-- [text-generation-by-language-model](https://github.com/cuban-digital-language/nlp-probabilistic-text-generator)
-- [text-generation-by-nn](https://github.com/cuban-digital-language/nlp-rnn-text-generator) 
+- [fabric-sdk-python](https://github.com/ic-matcom/fabric-sdk-python): *Python's library that implements an SDK to operate with the main components of the Hyperledger Fabric's network*
+- [candidates-assistant](https://github.com/danielorlando97/candidates-assistant): *Job recommendation system, based on information scraped from various job portals and the user's resume*
+- [js-lazy-array](https://github.com/packages-ts-js/array-lazy-eval): *Npm's package that defines a fluent syntax to operate with arrays in a lazy and efficient way*
 
-### 📚 [@matcom-school](https://github.com/matcom-school) proyects
-	@matcom-school is my org, where you can find all the projects I developed at the university
-	
-- [clean bot](https://github.com/matcom-school/haskell-agent)
-- [myshell](https://github.com/matcom-school/my-shell-pm-2-3ro)
-- [glasses](https://github.com/matcom-school/graphic-implementation-)
--->
+### 💚 Some personal projects
+- [python-search-space](https://github.com/danielorlando97/search-space): *Python library that defines a DSL for describing search spaces and generating samples of described spaces*
+- [docker-files-collection](https://github.com/danielorlando97/docker-files): *Docker configurations for some databases, administrators, message brokers, ...*
+- [flashplus](https://github.com/danielorlando97/flashplus): *Web page to publish the information contained in the Weekly Package(Cuban system for distributing multimedia information)*
 
+### 📝 Internship projects at [@posdata.club](https://github.com/postdataclub)
+
+- [social-media-data-mining](https://github.com/cuban-digital-language/data-mining): *Collections of jsons with mined information and scrapers for some social media website*
+- [digital-spanish-tokenizer](https://github.com/cuban-digital-language/tokenizer-digital-language): *Customized tokenizer of spacy to detect emojis, expressions and symbols of the digital Spanish language*
+- [comment-retrieval](https://github.com/cuban-digital-language/Models-for-Information-Retrieval): *Information retrieval system to list the most relevant comments on a specific topic*
+- **comment-generation**: *Research to build a ML model that generates cuban-style comments. Approaches were [stochastic-language-model](https://github.com/cuban-digital-language/nlp-probabilistic-text-generator) and [recurrent-nn](https://github.com/cuban-digital-language/nlp-rnn-text-generator)*
+- **content-detection**: *Research to automatically detect set of documents with the same content. Approaches were [nn-autoencoder](https://github.com/cuban-digital-language/corpus-cluster-by-autoencode) and [unsupervised-ml-models](https://github.com/cuban-digital-language/content-detection-and-corpus-clustering)*
+
+### 🤓 Self-study projects
+- [solidity-practice](https://github.com/danielorlando97/solidity-practice): *A collection of Solidity contracts and test and deployment scripts of Hardhat or Brownie*
+- [dapp-gif-portal](https://github.com/danielorlando97/buildspace-gif-portal-starter-project): *Project of buildspace, react website for sharing gifs via ethereum blockchain*
+- [ia-algorithms](https://github.com/matcom-school/IA-algorithms): *Implementation of some algorithms of classical AI, ML and RL. Plus some problems as example*
+- **gpt3-examples**: *Project of buildspace, some examples of gpt3 use cases, [chrome-extension](https://github.com/danielorlando97/gpt3-writer-extension-starter) and [writing assistant website](https://github.com/danielorlando97/gpt3-writer-starter)*
+- [competitive-programming](https://github.com/danielorlando97/golang-solution-problem): *Solutions to competitive programming problems written in the languages I've been learning, Python, Go, ...*
+
+### 📚 Some [@matcom-school](https://github.com/matcom-school) proyects
+
+- [myshell](https://github.com/matcom-school/my-shell-pm-2-3ro): *C implementation of a shell (Machine programming)*
+- [python-tcp-protocol](https://github.com/matcom-school/network-proyect-3ro): *Implementation of the tcp protocol over an insecure network layer (Computer Networks)*
+- [distributed-scraper](https://github.com/matcom-school/distributed-scrapper-chord-4to): *Distributed system implemented with the chord protocol and the zmq library as communication layer (Distributed Systems)*
+- [glasses](https://github.com/matcom-school/graphic-implementation-): *Computerized generation of glasses and water (Computer Graphics)*
+- [cool-compiler](https://github.com/matcom-school/cool-compiler-2021): *Implementation of a compiler for the COOL language that parses plain text code and transforms it into MIPS code (Compile)*
+- [clean-agent](https://github.com/matcom-school/haskell-agent): *Simulation written in haskell of the interaction between a proactive agent and a discrete environment (Simulation and Declarative Programming)*
+- **file-management-system**: *Management system implemented on the Hyperledger Fabric network, consisting of [chaincode](https://github.com/matcom-school/test-network-optativo-nanobash) and [dapp](https://github.com/matcom-school/api.dapp) (Blockchain)*
+<!--
+
+---
 
 ### 🏦 My Orgs 
       I like to organize my work in orgs by subject or origin, always that works have more that one repo.
     
   - `@matcom-school`: where you can find all the projects I developed at the university
   - `@cuban-digital-language`: where you can find all my work in the intership with `@postdata.club`. Those works are about scrapers and nlp   
-
 
 
 ### 🗃 Portfolio
@@ -106,7 +126,7 @@
 
 
 </details> 
-
+-->
 ---
 ### Other Skills
 
@@ -130,151 +150,7 @@
 ![Me GitHub stats](https://github-readme-stats.vercel.app/api?username=danielorlando97&count_private=true&show_icons=true&theme=dark&title_color=00BB2D) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielorlando97&layout=compact&langs_count=5&hide=html,css,makefile&count_private=true&show_icons=true&theme=dark&title_color=00BB2D)](https://github.com/anuraghazra/github-readme-stats)
 ![Me GitHub stats](https://wakatime.com/share/@danielorlando97/7ee8596e-58cc-4a0d-8841-388180ee9012.svg) | ![Me GitHub stats](https://wakatime.com/share/@danielorlando97/bb7db890-b129-4deb-88b9-b96dc733660a.svg) 
 
-
-
-<!--
-
-
-  <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> 
-
-
-
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  
-  
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-  
-  
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  
-  <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> 
-  
-  
-    
-  <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
-  
-  
-    
-  <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
-  
-    <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-  
-  <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-  
-  
-    <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
-  
-  
-  <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
-  
-  
-    
-  <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> 
-  
-  
-  <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a>
-  
-    <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a>
-  <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-  
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-    
-    
-      <a href="https://karma-runner.github.io/latest/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a>
-  
-  <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
-  
-  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-  
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  
-  <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
-  
-    <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-
-
-  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  
-  
-    
-  <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a>
-  
-  
-    
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  
-  <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-  
-  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-  
-  <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
-  
-
-<details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
-  <br/>
-  <p align="left"> 
-  <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-  
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  
-
-  
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-
-  
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  
-
-  
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  
-
-  
-  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-  
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-
-  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-  
-
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  
-
-  
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  
-
-  
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  
-
-  
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-
-  
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  
-  <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-
-  
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-</details>
-
--->
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 
