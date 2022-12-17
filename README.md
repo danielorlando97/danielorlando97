@@ -27,6 +27,24 @@
 
 
 ---
+<!--  
+
+#### 📝 Internship projects at [@posdata.club](https://github.com/postdataclub)
+	@cuban-digital-language is my org where you can find all my work in the intership with @postdata.club. Those works are about scrapers and nlp
+	
+- [comment-retrieval](https://github.com/cuban-digital-language/Models-for-Information-Retrieval)
+- [text-generation-by-language-model](https://github.com/cuban-digital-language/nlp-probabilistic-text-generator)
+- [text-generation-by-nn](https://github.com/cuban-digital-language/nlp-rnn-text-generator) 
+
+### 📚 [@matcom-school](https://github.com/matcom-school) proyects
+	@matcom-school is my org, where you can find all the projects I developed at the university
+	
+- [clean bot](https://github.com/matcom-school/haskell-agent)
+- [myshell](https://github.com/matcom-school/my-shell-pm-2-3ro)
+- [glasses](https://github.com/matcom-school/graphic-implementation-)
+-->
+
+
 ### 🏦 My Orgs 
       I like to organize my work in orgs by subject or origin, always that works have more that one repo.
     
